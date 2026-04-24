@@ -1,0 +1,9 @@
+.env
+.env.*
+video-website-referensi.mov
+.next
+node_modules
+coverage
+*.log
+.DS_Store
+
