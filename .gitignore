@@ -11,3 +11,4 @@ video-website-referensi.mov
 *.log
 .DS_Store
 tsconfig.tsbuildinfo
+.vercel
